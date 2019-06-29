@@ -25,6 +25,8 @@
 ## Google Cloud Platform CDN
 - [Indroducing QUIC support for HTTPS loadbalancing](https://cloud.google.com/blog/products/gcp/introducing-quic-support-https-load-balancing)
 
+## Congestion Control Algorithms
+- [Fifty Shades of Congestion Control](https://arxiv.org/pdf/1903.03852.pdf)
 
 ## DataCenter TCP
 - [DCTCP](https://tools.ietf.org/html/rfc8257#section-3.2)
