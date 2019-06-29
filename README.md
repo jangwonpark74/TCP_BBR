@@ -12,6 +12,9 @@
 ## minRTT Window for BBRv2
 - [About minRTT Window for BBRv2, satoshi Utsumi](https://docs.google.com/viewer?a=v&pid=forums&srcid=MTM4MzgwMTkyOTk3OTEyODM2MjEBMTUzMjQ5MjY2NDQ1NzEzNzczMTcBUEZfSC1YWDBCUUFKATAuMQEBdjI&authuser=0)
 
+## Experimental Evaluation of BBRv1
+- [Paper on BBRv1 CC](http://doc.tm.kit.edu/2017-kit-icnp-bbr-authors-copy.pdf)
+
 ## Uber's QUIC Integration
 - [Employing quic protocol](https://eng.uber.com/employing-quic-protocol/)
 
