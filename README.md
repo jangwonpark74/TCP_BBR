@@ -21,5 +21,10 @@
 ## Quick Reverse Proxy
 - [Quick Reverse Proxy Patch](https://chromium.googlesource.com/chromium/src/+/4380217c0aa51adff8f624ba412e415e6493413a)
 
+
+## Google Cloud Platform CDN
+- [Indroducing QUIC support for HTTPS loadbalancing](https://cloud.google.com/blog/products/gcp/introducing-quic-support-https-load-balancing)
+
+
 ## DataCenter TCP
 - [DCTCP](https://tools.ietf.org/html/rfc8257#section-3.2)
