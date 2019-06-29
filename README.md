@@ -12,5 +12,12 @@
 ## minRTT Window for BBRv2
 - [About minRTT Window for BBRv2, satoshi Utsumi](https://docs.google.com/viewer?a=v&pid=forums&srcid=MTM4MzgwMTkyOTk3OTEyODM2MjEBMTUzMjQ5MjY2NDQ1NzEzNzczMTcBUEZfSC1YWDBCUUFKATAuMQEBdjI&authuser=0)
 
+## Uber's QUIC Integration
+- [Employing quic protocol](https://eng.uber.com/employing-quic-protocol/)
+
+
+## Quick Reverse Proxy
+- [Quick Reverse Proxy Patch](https://chromium.googlesource.com/chromium/src/+/4380217c0aa51adff8f624ba412e415e6493413a)
+
 ## DataCenter TCP
 - [DCTCP](https://tools.ietf.org/html/rfc8257#section-3.2)
