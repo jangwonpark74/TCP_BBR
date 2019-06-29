@@ -15,6 +15,8 @@
 ## Uber's QUIC Integration
 - [Employing quic protocol](https://eng.uber.com/employing-quic-protocol/)
 
+## Traffic Policing & TCP congestion control
+ - [An Internet-Wide Analysis of Traffic Policing](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45411.pdf)
 
 ## Quick Reverse Proxy
 - [Quick Reverse Proxy Patch](https://chromium.googlesource.com/chromium/src/+/4380217c0aa51adff8f624ba412e415e6493413a)
